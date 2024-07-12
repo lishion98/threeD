@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35017.193
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "threeD", "threeD.csproj", "{44979BFE-61B9-4022-8BDC-F94C0A1FFBCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44979BFE-61B9-4022-8BDC-F94C0A1FFBCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44979BFE-61B9-4022-8BDC-F94C0A1FFBCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44979BFE-61B9-4022-8BDC-F94C0A1FFBCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44979BFE-61B9-4022-8BDC-F94C0A1FFBCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDDFF02C-9B3F-4A68-B147-6B57DE6D67C8}
+	EndGlobalSection
+EndGlobal
